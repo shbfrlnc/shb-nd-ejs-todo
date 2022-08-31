@@ -1,4 +1,4 @@
-# NDCRD - Studi Kasus Node.js Aplikasi CRUD
+# NDCRD - Aplikasi CRUD dengan Node.js
 
 ## Cara Mencoba Kode Ini
 

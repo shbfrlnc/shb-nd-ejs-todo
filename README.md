@@ -1,5 +1,9 @@
 # NDCRD - Aplikasi CRUD dengan Node.js
 
+## Software Apakah Ini?
+
+NDCRD adalah Aplikasi CRUD dengan Node.js.
+
 ## Cara Mencoba Kode Ini
 
 Untuk mencoba kode ini, download folder ini.

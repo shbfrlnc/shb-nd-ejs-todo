@@ -1,3 +1,5 @@
+// script ini adalah mongoose scheme untuk todo.
+
 const mongoose = require('mongoose');
 
 const Schema = mongoose.Schema;

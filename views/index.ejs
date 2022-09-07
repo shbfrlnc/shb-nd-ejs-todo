@@ -125,7 +125,9 @@
     <script src="/public/vendor/jquery/jquery.js"></script>
     <script src="/public/vendor/bootstrap/js/bootstrap.bundle.js"></script>
     <script>
+        // ketika elemen dengan class btn-edit-modal diklik
         $(document).on('click', '.btn-edit-modal', function () {
+            // ambil datanya: id, title, description, yang tadinya ada di data- attribute
             $("#id-edit").val($(this).data('id'));
             $("#title-edit").val($(this).data('title'));
             $("#description-edit").val($(this).data('description'));

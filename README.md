@@ -1,12 +1,12 @@
-# NDCRD - Aplikasi CRUD dengan Node.js
+# shb-nd-ejs-todo - Aplikasi Todo dengan Node.js dan EJS
 
 ## Software Apakah Ini?
 
-NDCRD adalah Aplikasi CRUD dengan Node.js.
+shb-nd-ejs-todo adalah Aplikasi Todo dengan Node.js dan EJS.
 
 ## Screenshot
 
-![ScreenShot](.readme-assets/NDCRD-1.png?raw=true)
+![ScreenShot](.readme-assets/shb-nd-ejs-todo-1.png?raw=true)
 
 ## Cara Mencoba Kode Ini
 
@@ -26,13 +26,13 @@ npm run dev
 
 ## Pendahuluan
 
-Kali ini, saya akan memberi contoh aplikasi CRUD sederhana dengan Node.js.
+Kali ini, saya akan memberi contoh aplikasi Todo sederhana dengan Node.js dan EJS.
 
 DBMS yang digunakan adalah MongoDB dengan Mongoose.
 
 ## Cara Kerja
 
-Cara kerja aplikasi ini adalah seperti aplikasi CRUD pada umumnya, yakni melakukan create, read, update, dan delete.
+Cara kerja aplikasi ini adalah seperti aplikasi Todo pada umumnya, yakni melakukan create, read, update, dan delete.
 
 ## Struktur Project
 

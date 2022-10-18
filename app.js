@@ -24,6 +24,6 @@ app.use('/', indexRouter);
 
 // jalankan server di port 3000
 app.listen(3000, () => {
-    mongoose.connect('mongodb://127.0.0.1:27017/mycrud1');
+    mongoose.connect('mongodb://127.0.0.1:27017/shb-nd-ejs-todo');
     console.log("Server berjalan di port 3000");
 });

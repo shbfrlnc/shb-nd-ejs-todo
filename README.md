@@ -1,5 +1,9 @@
 # shb-nd-ejs-todo - Aplikasi Todo dengan Node.js dan EJS
 
+## Traktir Saya
+
+Berikan saya uang gratis di https://bit.ly/shb-traktir
+
 ## Software Apakah Ini?
 
 shb-nd-ejs-todo adalah Aplikasi Todo dengan Node.js dan EJS.
